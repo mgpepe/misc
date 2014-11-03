@@ -8,3 +8,4 @@ mkdir tmp/logs/
 mkdir tmp/sessions/
 mkdir tmp/tests/
 sudo chmod -R 770 tmp/
+
